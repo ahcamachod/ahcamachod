@@ -1,5 +1,5 @@
 ### ⚡ Python Enthusiast ⚡
-#### Data Analytics | Science | Machine Learning | Python
+#### Data Analytics | Science | Machine Learning | Statistics 
 
 <!--
 **ahcamachod/ahcamachod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
